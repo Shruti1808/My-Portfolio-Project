@@ -1,5 +1,6 @@
 body {
 background-image: url(../image/sp.jpg);
+font-family: sans-serif;
 
 }
 p{
@@ -66,4 +67,5 @@ border: 1px solid white;
 padding:4px;
 margin:2px;
 background-color:#9CA998;
+width:50%;
 }
