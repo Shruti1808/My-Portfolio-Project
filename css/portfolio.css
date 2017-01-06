@@ -1,9 +1,11 @@
 body {
-background-image: url("../image/abstract.jpg");
-
+background-image: url(../image/sp.jpg);
 
 }
-
+p{
+  color:orange;
+  font-size: 20px;
+}
 
 
 
@@ -37,8 +39,11 @@ ul.nav nav-pills{
   padding: 4px;
   margin: 10px;
 }
-
- h3{
-  color:white;
+h3{
+  color:#66D8F7;
+}
+.experience{
+  color:orange;
   font-size: 20px;
+
 }
