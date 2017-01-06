@@ -41,6 +41,7 @@ ul.nav nav-pills{
 }
 h3{
   color:#66D8F7;
+  font-style: sans-serif;
 }
 .experience{
   color:orange;
@@ -52,4 +53,10 @@ h3{
   display:block;
   font-size: 10px;
   font-weight: bold;
+}
+.about{
+border: 1px solid blue;
+padding:4px;
+margin:2px;
+background-color:#9CA998;
 }
