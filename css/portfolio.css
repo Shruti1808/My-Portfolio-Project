@@ -22,6 +22,12 @@ h1{
 
 .projects{
 font-size: 20px;
+border: 1px solid white;
+padding:4px;
+margin:2px;
+background-color:#9CA998;
+width:50%;
+
 
 }
 h2{
@@ -46,6 +52,7 @@ h3{
 .experience{
   color:orange;
   font-size: 20px;
+  width:50%;
 
 }
 
@@ -55,7 +62,7 @@ h3{
   font-weight: bold;
 }
 .about{
-border: 1px solid blue;
+border: 1px solid white;
 padding:4px;
 margin:2px;
 background-color:#9CA998;
