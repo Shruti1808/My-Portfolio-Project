@@ -1,39 +1,36 @@
 body {
-background-image: url(../image/sp.jpg);
-font-family: sans-serif;
-
+  background-image: url(../image/sp.jpg);
+  font-family: sans-serif;
 }
+
 p{
   color:orange;
   font-size: 18px;
 }
 
-
-
 img{
   float:right;
   width:300px;
   height:300px;
-
 }
+
 h1{
   color:white;
   font-size: 50px;
 }
 
 .projects{
-font-size: 20px;
-border: 1px solid white;
-padding:4px;
-margin:2px;
-background-color:#9CA998;
-width:50%;
-
-
+  font-size: 20px;
+  border: 1px solid white;
+  padding:4px;
+  margin:2px;
+  background-color:#9CA998;
+  width:50%;
 }
+
 h2{
   font-size:30px;
-color:white;
+  color:white;
 
 }
 ul.nav nav-pills{
@@ -46,10 +43,12 @@ ul.nav nav-pills{
   padding: 4px;
   margin: 10px;
 }
+
 h3{
   color:#66D8F7;
   font-style: sans-serif;
 }
+
 .experience{
   color:orange;
   font-size: 20px;
@@ -67,11 +66,11 @@ h3{
   font-weight: bold;
 }
 .about{
-border: 1px solid white;
-padding:4px;
-margin:2px;
-background-color:#9CA998;
-width:50%;
+  border: 1px solid white;
+  padding:4px;
+  margin:2px;
+  background-color:#9CA998;
+  width:50%;
 }
 
 .credentials{
