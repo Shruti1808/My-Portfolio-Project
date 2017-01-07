@@ -1,15 +1,16 @@
-SHRUTI's Portfolio
+SHRUTI's Portfolio Page
 
-#### {Friday, January 6}_
+#### {Friday, January 6}
 
 
 ## Description
 
- This website contains details about Shruti Priya, a proficient and meticulous individual looking for an oppurtunity for personal growth of the individual and the associated organisation.
+ This repo contains details about Shruti Priya, a proficient and meticulous individual looking for an oppurtunity for personal growth of the individual and the associated organisation.
 
 
 ## Contact details
 Email: shrutipriya1808@gmail.com
+
 Contact :425-666-8878
 
 
@@ -21,4 +22,4 @@ HTML, CSS and Bootstrap.
 
 *MIT*
 
-Copyright (c) 2016 **Shruti Priya**
+Copyright (c) 2016 **Shruti Priya. All rights reserved.**
